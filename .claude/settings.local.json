@@ -37,7 +37,8 @@
       "Bash(docker kill:*)",
       "Bash(docker stop:*)",
       "Bash(git remote add:*)",
-      "Bash(chmod:*)"
+      "Bash(chmod:*)",
+      "Bash(git -C /Users/stephen.g.pope/Development/popebot log --oneline --all -- screenshot.js)"
     ]
   }
 }
